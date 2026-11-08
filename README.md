@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey there! 👋 I'm Joel J
 
-<!--
-**Jo-l-10/Jo-l-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Business Analytics enthusiast with **3+ years of professional experience at TCS**, interested in solving business problems through data, technology, and analytical thinking.
 
-Here are some ideas to get you started:
+I enjoy exploring data, uncovering patterns, and translating insights into meaningful business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I'm currently working on
+- Business Analytics and Data Visualization projects.
+- Customer and business performance analysis.
+- Applying Machine Learning to real-world business problems.
+
+### 🛠️ Tools & Technologies
+- **Analytics:** SQL, Python, Excel
+- **Visualization:** Power BI
+- **Methods:** Exploratory Data Analysis, Statistical Analysis, Predictive Analytics, Clustering
+- **Interests:** Business Analytics, Strategy, Consulting
+
+### 🤝 Let's Connect
+- **LinkedIn:** www.linkedin.com/in/joel-j-3a269318b
+
+Always curious. Always learning. Always looking for meaningful problems to solve.
